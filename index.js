@@ -26,9 +26,6 @@ const books = {
     }
 }
 
-//curl "127.0.0.1:3001?genre=Fiction"
-//curl "127.0.0.1:3001/book/Moby Dick"
-
 
 // Query string example: Get books by genre
 app.get('/', (req, res) => {
