@@ -1,0 +1,20 @@
+{
+  "name": "web-services",
+  "version": "1.0.0",
+  "main": "books.js",
+  "scripts": {
+    "develop": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
