@@ -42,13 +42,9 @@ app.get('/', (req, res) => {
     // Send response with matching books
     res.send(matchingBooks);
 });
-
 //curl "149.31.228.185:3001?genre=Fiction"
 //curl "149.31.228.185:3001?genre=Non-Fiction"
 //curl "149.31.228.185:3001/book/Sapiens"
-
-
-
 
 // URL params example: Get a specific book by title
 app.get('/book/:title', (req, res) => {
