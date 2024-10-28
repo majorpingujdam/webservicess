@@ -1,7 +1,11 @@
-// Import the express library
 import express from 'express';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
+
+// Define __dirname for ES modules
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // Creating an instance of an express application
 const app = express();
@@ -11,6 +15,9 @@ const port = process.env.PORT || 3001;
 
 // Load book data from data.json file
 const books = JSON.parse(fs.readFileSync(path.join(__dirname, 'data.json'), 'utf-8'));
+
+
+
 
 // Endpoint 1: Query books by genre
 app.get('/books', (req, res) => {
