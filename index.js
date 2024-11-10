@@ -30,7 +30,8 @@ app.get('/books', (req, res) => {
             matchingBooks.push({
                 title: book,
                 author: books[book].author,
-                releaseDate: books[book].releaseDate
+                releaseDate: books[book].releaseDate,
+                description: books[book].description
             });
         }
     }
@@ -48,7 +49,8 @@ app.get('/author', (req, res) => {
             matchingBooks.push({
                 title: book,
                 genre: books[book].genre,
-                releaseDate: books[book].releaseDate
+                releaseDate: books[book].releaseDate,
+                description: books[book].description
             });
         }
     }
@@ -67,7 +69,8 @@ app.get('/release-month', (req, res) => {
             matchingBooks.push({
                 title: book,
                 genre: books[book].genre,
-                author: books[book].author
+                author: books[book].author,
+                description: books[book].description
             });
         }
     }
@@ -84,7 +87,8 @@ app.get('/book/:title', (req, res) => {
             title: bookTitle,
             genre: books[bookTitle].genre,
             author: books[bookTitle].author,
-            releaseDate: books[bookTitle].releaseDate
+            releaseDate: books[bookTitle].releaseDate,
+            description: books[bookTitle].description
         });
     } else {
         res.send(`The book "${bookTitle}" does not exist in our records.`);

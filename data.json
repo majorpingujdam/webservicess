@@ -1,238 +1,284 @@
 {
-    "Moby Dick": {
-      "genre": "Fiction",
-      "author": "Herman Melville",
-      "releaseDate": "1851-10"
-    },
-    "Sapiens": {
-      "genre": "Non-Fiction",
-      "author": "Yuval Noah Harari",
-      "releaseDate": "2011-09"
-    },
-    "1984": {
-      "genre": "Fiction",
-      "author": "George Orwell",
-      "releaseDate": "1949-06"
-    },
-    "The Selfish Gene": {
-      "genre": "Science",
-      "author": "Richard Dawkins",
-      "releaseDate": "1976-03"
-    },
-    "Atomic Habits": {
-      "genre": "Self-Help",
-      "author": "James Clear",
-      "releaseDate": "2018-10"
-    },
-    "The Silent Patient": {
-      "genre": "Thriller",
-      "author": "Alex Michaelides",
-      "releaseDate": "2019-02"
-    },
-    "Educated": {
-      "genre": "Memoir",
-      "author": "Tara Westover",
-      "releaseDate": "2018-02"
-    },
-    "The Night Circus": {
-      "genre": "Fantasy",
-      "author": "Erin Morgenstern",
-      "releaseDate": "2011-09"
-    },
-    "Where the Crawdads Sing": {
-      "genre": "Mystery",
-      "author": "Delia Owens",
-      "releaseDate": "2018-08"
-    },
-    "Becoming": {
-      "genre": "Biography",
-      "author": "Michelle Obama",
-      "releaseDate": "2018-11"
-    },
-    "The Subtle Art of Not Giving a F*ck": {
-      "genre": "Self-Help",
-      "author": "Mark Manson",
-      "releaseDate": "2016-09"
-    },
-    "The Great Alone": {
-      "genre": "Historical Fiction",
-      "author": "Kristin Hannah",
-      "releaseDate": "2018-02"
-    },
-    "Little Fires Everywhere": {
-      "genre": "Fiction",
-      "author": "Celeste Ng",
-      "releaseDate": "2017-09"
-    },
-    "Circe": {
-      "genre": "Fantasy",
-      "author": "Madeline Miller",
-      "releaseDate": "2018-04"
-    },
-    "The Vanishing Half": {
-      "genre": "Historical Fiction",
-      "author": "Brit Bennett",
-      "releaseDate": "2020-06"
-    },
-    "Normal People": {
-      "genre": "Fiction",
-      "author": "Sally Rooney",
-      "releaseDate": "2018-08"
-    },
-    "It Ends with Us": {
-      "genre": "Romance",
-      "author": "Colleen Hoover",
-      "releaseDate": "2016-08"
-    },
-    "The Seven Husbands of Evelyn Hugo": {
-      "genre": "Historical Fiction",
-      "author": "Taylor Jenkins Reid",
-      "releaseDate": "2017-06"
-    },
-    "A Man Called Ove": {
-      "genre": "Fiction",
-      "author": "Fredrik Backman",
-      "releaseDate": "2012-08"
-    },
-    "The Girl on the Train": {
-      "genre": "Thriller",
-      "author": "Paula Hawkins",
-      "releaseDate": "2015-01"
-    },
-    "The Testaments": {
-      "genre": "Dystopian",
-      "author": "Margaret Atwood",
-      "releaseDate": "2019-09"
-    },
-    "The Goldfinch": {
-      "genre": "Fiction",
-      "author": "Donna Tartt",
-      "releaseDate": "2013-10"
-    },
-    "The Tattooist of Auschwitz": {
-      "genre": "Historical Fiction",
-      "author": "Heather Morris",
-      "releaseDate": "2018-01"
-    },
-    "The Book Thief": {
-      "genre": "Historical Fiction",
-      "author": "Markus Zusak",
-      "releaseDate": "2005-03"
-    },
-    "The Handmaid's Tale": {
-      "genre": "Dystopian",
-      "author": "Margaret Atwood",
-      "releaseDate": "1985-09"
-    },
-    "Dune": {
-      "genre": "Science Fiction",
-      "author": "Frank Herbert",
-      "releaseDate": "1965-08"
-    },
-    "Pachinko": {
-      "genre": "Historical Fiction",
-      "author": "Min Jin Lee",
-      "releaseDate": "2017-02"
-    },
-    "The Road": {
-      "genre": "Post-Apocalyptic",
-      "author": "Cormac McCarthy",
-      "releaseDate": "2006-09"
-    },
-    "Harry Potter and the Sorcerer's Stone": {
-      "genre": "Fantasy",
-      "author": "J.K. Rowling",
-      "releaseDate": "1997-06"
-    },
-    "The Catcher in the Rye": {
-      "genre": "Fiction",
-      "author": "J.D. Salinger",
-      "releaseDate": "1951-07"
-    },
-    "To Kill a Mockingbird": {
-      "genre": "Fiction",
-      "author": "Harper Lee",
-      "releaseDate": "1960-07"
-    },
-    "The Alchemist": {
-      "genre": "Fiction",
-      "author": "Paulo Coelho",
-      "releaseDate": "1988-05"
-    },
-    "The Hitchhiker's Guide to the Galaxy": {
-      "genre": "Science Fiction",
-      "author": "Douglas Adams",
-      "releaseDate": "1979-10"
-    },
-    "Good Omens": {
-      "genre": "Fantasy",
-      "author": "Neil Gaiman",
-      "releaseDate": "1990-05"
-    },
-    "The Name of the Wind": {
-      "genre": "Fantasy",
-      "author": "Patrick Rothfuss",
-      "releaseDate": "2007-03"
-    },
-    "Twilight": {
-      "genre": "Fantasy",
-      "author": "Stephenie Meyer",
-      "releaseDate": "2005-10"
-    },
-    "The Hunger Games": {
-      "genre": "Dystopian",
-      "author": "Suzanne Collins",
-      "releaseDate": "2008-09"
-    },
-    "The Lightning Thief": {
-      "genre": "Fantasy",
-      "author": "Rick Riordan",
-      "releaseDate": "2005-06"
-    },
-    "Life of Pi": {
-      "genre": "Fiction",
-      "author": "Yann Martel",
-      "releaseDate": "2001-09"
-    },
-    "Fahrenheit 451": {
-      "genre": "Dystopian",
-      "author": "Ray Bradbury",
-      "releaseDate": "1953-10"
-    },
-    "The Lovely Bones": {
-      "genre": "Fiction",
-      "author": "Alice Sebold",
-      "releaseDate": "2002-07"
-    },
-    "Ender's Game": {
-      "genre": "Science Fiction",
-      "author": "Orson Scott Card",
-      "releaseDate": "1985-01"
-    },
-    "The Pillars of the Earth": {
-      "genre": "Historical Fiction",
-      "author": "Ken Follett",
-      "releaseDate": "1989-08"
-    },
-    "The Help": {
-      "genre": "Historical Fiction",
-      "author": "Kathryn Stockett",
-      "releaseDate": "2009-02"
-    },
-    "A Game of Thrones": {
-      "genre": "Fantasy",
-      "author": "George R.R. Martin",
-      "releaseDate": "1996-08"
-    },
-    "The Shining": {
-      "genre": "Horror",
-      "author": "Stephen King",
-      "releaseDate": "1977-01"
-    },
-    "Gone Girl": {
-      "genre": "Thriller",
-      "author": "Gillian Flynn",
-      "releaseDate": "2012-06"
-    }
+  "Moby Dick": {
+    "genre": "Fiction",
+    "author": "Herman Melville",
+    "releaseDate": "1851-10",
+    "description": "A thrilling tale of adventure and obsession as Captain Ahab pursues the elusive white whale, Moby Dick."
+  },
+  "Sapiens": {
+    "genre": "Non-Fiction",
+    "author": "Yuval Noah Harari",
+    "releaseDate": "2011-09",
+    "description": "A thought-provoking exploration of human history, covering topics from the rise of Homo sapiens to modern civilization."
+  },
+  "1984": {
+    "genre": "Fiction",
+    "author": "George Orwell",
+    "releaseDate": "1949-06",
+    "description": "A dystopian novel that delves into themes of totalitarianism, surveillance, and individuality in a controlled society."
+  },
+  "The Selfish Gene": {
+    "genre": "Science",
+    "author": "Richard Dawkins",
+    "releaseDate": "1976-03",
+    "description": "A groundbreaking work in evolutionary biology that introduces the concept of genes as the primary drivers of evolution."
+  },
+  "Atomic Habits": {
+    "genre": "Self-Help",
+    "author": "James Clear",
+    "releaseDate": "2018-10",
+    "description": "A guide on building good habits and breaking bad ones, with practical strategies for achieving long-term personal growth."
+  },
+  "The Silent Patient": {
+    "genre": "Thriller",
+    "author": "Alex Michaelides",
+    "releaseDate": "2019-02",
+    "description": "A suspenseful psychological thriller about a woman who becomes mute after a traumatic incident and the therapist determined to uncover her story."
+  },
+  "Educated": {
+    "genre": "Memoir",
+    "author": "Tara Westover",
+    "releaseDate": "2018-02",
+    "description": "A memoir about a woman who grows up in a strict and abusive household in rural Idaho and her journey to self-education and freedom."
+  },
+  "The Night Circus": {
+    "genre": "Fantasy",
+    "author": "Erin Morgenstern",
+    "releaseDate": "2011-09",
+    "description": "A magical tale of a traveling circus that appears without warning and the two magicians who are bound in a mysterious competition."
+  },
+  "Where the Crawdads Sing": {
+    "genre": "Mystery",
+    "author": "Delia Owens",
+    "releaseDate": "2018-08",
+    "description": "A coming-of-age murder mystery set in the marshlands of North Carolina, exploring themes of loneliness, nature, and resilience."
+  },
+  "Becoming": {
+    "genre": "Biography",
+    "author": "Michelle Obama",
+    "releaseDate": "2018-11",
+    "description": "The memoir of former First Lady Michelle Obama, sharing her journey from the South Side of Chicago to the White House."
+  },
+  "The Subtle Art of Not Giving a F*ck": {
+    "genre": "Self-Help",
+    "author": "Mark Manson",
+    "releaseDate": "2016-09",
+    "description": "A refreshing take on self-help that emphasizes accepting life’s struggles and focusing on what truly matters."
+  },
+  "The Great Alone": {
+    "genre": "Historical Fiction",
+    "author": "Kristin Hannah",
+    "releaseDate": "2018-02",
+    "description": "A story of survival and resilience set in the harsh wilderness of Alaska, following a family’s struggle and redemption."
+  },
+  "Little Fires Everywhere": {
+    "genre": "Fiction",
+    "author": "Celeste Ng",
+    "releaseDate": "2017-09",
+    "description": "A compelling story of family secrets and the clash between privilege and social justice in suburban America."
+  },
+  "Circe": {
+    "genre": "Fantasy",
+    "author": "Madeline Miller",
+    "releaseDate": "2018-04",
+    "description": "A reimagining of the life of Circe, the Greek mythological figure, blending magic and mythology into a captivating tale."
+  },
+  "The Vanishing Half": {
+    "genre": "Historical Fiction",
+    "author": "Brit Bennett",
+    "releaseDate": "2020-06",
+    "description": "A multigenerational family saga that explores race, identity, and the influence of the past on the present."
+  },
+  "Normal People": {
+    "genre": "Fiction",
+    "author": "Sally Rooney",
+    "releaseDate": "2018-08",
+    "description": "A novel about two young people whose complex relationship is marked by love, friendship, and miscommunication."
+  },
+  "It Ends with Us": {
+    "genre": "Romance",
+    "author": "Colleen Hoover",
+    "releaseDate": "2016-08",
+    "description": "A romance novel that explores themes of love, abuse, and resilience, focusing on a young woman’s choices and sacrifices."
+  },
+  "The Seven Husbands of Evelyn Hugo": {
+    "genre": "Historical Fiction",
+    "author": "Taylor Jenkins Reid",
+    "releaseDate": "2017-06",
+    "description": "A glamorous and scandalous story of an aging Hollywood starlet recounting her life and seven marriages."
+  },
+  "A Man Called Ove": {
+    "genre": "Fiction",
+    "author": "Fredrik Backman",
+    "releaseDate": "2012-08",
+    "description": "A heartwarming tale of an old curmudgeon whose life is changed by the unexpected friendship of his quirky neighbors."
+  },
+  "The Girl on the Train": {
+    "genre": "Thriller",
+    "author": "Paula Hawkins",
+    "releaseDate": "2015-01",
+    "description": "A psychological thriller about a woman who witnesses something shocking during her daily train ride and becomes entangled in a mystery."
+  },
+  "The Testaments": {
+    "genre": "Dystopian",
+    "author": "Margaret Atwood",
+    "releaseDate": "2019-09",
+    "description": "A powerful sequel to 'The Handmaid's Tale' that explores the themes of resistance, power, and survival."
+  },
+  "The Goldfinch": {
+    "genre": "Fiction",
+    "author": "Donna Tartt",
+    "releaseDate": "2013-10",
+    "description": "A Pulitzer Prize-winning novel that follows a young boy whose life is transformed by a tragic event and a stolen painting."
+  },
+  "The Tattooist of Auschwitz": {
+    "genre": "Historical Fiction",
+    "author": "Heather Morris",
+    "releaseDate": "2018-01",
+    "description": "A love story set in the Holocaust, depicting the life of a tattooist in Auschwitz and the courage of those who endured."
+  },
+  "The Book Thief": {
+    "genre": "Historical Fiction",
+    "author": "Markus Zusak",
+    "releaseDate": "2005-03",
+    "description": "A moving story of a young girl in Nazi Germany who finds solace in stealing books and sharing them with others."
+  },
+  "The Handmaid's Tale": {
+    "genre": "Dystopian",
+    "author": "Margaret Atwood",
+    "releaseDate": "1985-09",
+    "description": "A dystopian novel that explores a future society where women are subjugated and valued only for their fertility."
+  },
+  "Dune": {
+    "genre": "Science Fiction",
+    "author": "Frank Herbert",
+    "releaseDate": "1965-08",
+    "description": "A science fiction epic about a young man’s journey to control the desert planet Arrakis and its valuable spice."
+  },
+  "Pachinko": {
+    "genre": "Historical Fiction",
+    "author": "Min Jin Lee",
+    "releaseDate": "2017-02",
+    "description": "An epic family saga following four generations of a Korean family living in Japan and dealing with identity and resilience."
+  },
+  "The Road": {
+    "genre": "Post-Apocalyptic",
+    "author": "Cormac McCarthy",
+    "releaseDate": "2006-09",
+    "description": "A bleak yet powerful tale of a father and son journeying through a post-apocalyptic world, facing hardships and moral choices."
+  },
+  "Harry Potter and the Sorcerer's Stone": {
+    "genre": "Fantasy",
+    "author": "J.K. Rowling",
+    "releaseDate": "1997-06",
+    "description": "The beginning of the magical adventures of Harry Potter, a young wizard discovering his powers and facing challenges at Hogwarts."
+  },
+  "The Catcher in the Rye": {
+    "genre": "Fiction",
+    "author": "J.D. Salinger",
+    "releaseDate": "1951-07",
+    "description": "A classic novel about teenage rebellion and identity, following the journey of Holden Caulfield in New York City."
+  },
+  "To Kill a Mockingbird": {
+    "genre": "Fiction",
+    "author": "Harper Lee",
+    "releaseDate": "1960-07",
+    "description": "A deeply moving novel that explores racial injustice and moral growth in the American South."
+  },
+  "The Alchemist": {
+    "genre": "Fiction",
+    "author": "Paulo Coelho",
+    "releaseDate": "1988-05",
+    "description": "A spiritual journey of a shepherd boy searching for his personal legend and the meaning of life."
+  },
+  "The Hitchhiker's Guide to the Galaxy": {
+    "genre": "Science Fiction",
+    "author": "Douglas Adams",
+    "releaseDate": "1979-10",
+    "description": "A humorous science fiction story that takes readers on a wild adventure through space with an unlikely crew of travelers."
   }
-  
+  "Good Omens": {
+    "genre": "Fantasy",
+    "author": "Neil Gaiman",
+    "releaseDate": "1990-05",
+    "description": "A humorous story of an angel and demon teaming up to prevent the apocalypse, written by two masters of fantasy."
+  },
+  "The Name of the Wind": {
+    "genre": "Fantasy",
+    "author": "Patrick Rothfuss",
+    "releaseDate": "2007-03",
+    "description": "The tale of a young man’s journey from poverty to legend, filled with magic, music, and intrigue."
+  },
+  "Twilight": {
+    "genre": "Fantasy",
+    "author": "Stephenie Meyer",
+    "releaseDate": "2005-10",
+    "description": "A vampire romance novel that tells the story of Bella and Edward's forbidden love."
+  },
+  "The Hunger Games": {
+    "genre": "Dystopian",
+    "author": "Suzanne Collins",
+    "releaseDate": "2008-09",
+    "description": "In a dystopian future, teens are forced to compete in a televised death match in a fight for survival and freedom."
+  },
+  "The Lightning Thief": {
+    "genre": "Fantasy",
+    "author": "Rick Riordan",
+    "releaseDate": "2005-06",
+    "description": "Percy Jackson, a young demigod, discovers his true identity and embarks on a quest to prevent a war among gods."
+  },
+  "Life of Pi": {
+    "genre": "Fiction",
+    "author": "Yann Martel",
+    "releaseDate": "2001-09",
+    "description": "A philosophical adventure about a boy stranded at sea with a Bengal tiger, exploring survival and spirituality."
+  },
+  "Fahrenheit 451": {
+    "genre": "Dystopian",
+    "author": "Ray Bradbury",
+    "releaseDate": "1953-10",
+    "description": "A classic dystopian novel where books are banned and 'firemen' burn them to suppress independent thought."
+  },
+  "The Lovely Bones": {
+    "genre": "Fiction",
+    "author": "Alice Sebold",
+    "releaseDate": "2002-07",
+    "description": "A haunting story of a young girl watching over her family from the afterlife after she becomes a murder victim."
+  },
+  "Ender's Game": {
+    "genre": "Science Fiction",
+    "author": "Orson Scott Card",
+    "releaseDate": "1985-01",
+    "description": "A young boy is trained through simulated warfare to lead humanity against an alien threat in this sci-fi classic."
+  },
+  "The Pillars of the Earth": {
+    "genre": "Historical Fiction",
+    "author": "Ken Follett",
+    "releaseDate": "1989-08",
+    "description": "An epic saga centered on the construction of a cathedral in medieval England, filled with political intrigue and romance."
+  },
+  "The Help": {
+    "genre": "Historical Fiction",
+    "author": "Kathryn Stockett",
+    "releaseDate": "2009-02",
+    "description": "Set in the 1960s South, this novel explores race relations through the eyes of Black maids and the women they serve."
+  },
+  "A Game of Thrones": {
+    "genre": "Fantasy",
+    "author": "George R.R. Martin",
+    "releaseDate": "1996-08",
+    "description": "The first book in an epic fantasy series, filled with noble houses, dragons, and a fierce struggle for power."
+  },
+  "The Shining": {
+    "genre": "Horror",
+    "author": "Stephen King",
+    "releaseDate": "1977-01",
+    "description": "A haunting tale of a mans descent into madness while isolated in a remote hotel with sinister forces at work."
+  },
+  "Gone Girl": {
+    "genre": "Thriller",
+    "author": "Gillian Flynn",
+    "releaseDate": "2012-06",
+    "description": "A psychological thriller about a marriage gone wrong, where nothing is as it seems."
+  }
+}
