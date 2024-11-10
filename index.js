@@ -1,3 +1,4 @@
+import cors from 'cors'
 import express from 'express';
 import fs from 'fs';
 import path from 'path';
@@ -9,6 +10,9 @@ const __dirname = path.dirname(__filename);
 
 // Creating an instance of an express application
 const app = express();
+app.use(cors({
+    origin: '*'
+}));
 
 // Defining the port we want to listen on
 const port = process.env.PORT || 3001;
