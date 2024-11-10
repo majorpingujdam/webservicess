@@ -1,23 +1,27 @@
+// Import necessary libraries
 import express from 'express';
 import fs from 'fs';
 import path from 'path';
+import cors from 'cors'; // Import CORS
 import { fileURLToPath } from 'url';
 
 // Define __dirname for ES modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// Creating an instance of an express application
+// Create an instance of an express application
 const app = express();
 
-// Defining the port we want to listen on
+// Enable CORS for all routes
+app.use(cors({
+    origin: '*' // Allow all origins; useful for development
+}));
+
+// Define the port to listen on
 const port = process.env.PORT || 3001;
 
 // Load book data from data.json file
 const books = JSON.parse(fs.readFileSync(path.join(__dirname, 'data.json'), 'utf-8'));
-
-
-
 
 // Endpoint 1: Query books by genre
 app.get('/books', (req, res) => {
@@ -90,7 +94,7 @@ app.get('/book/:title', (req, res) => {
     }
 });
 
-// Setting up our application to listen on the port we defined above
+// Start the application
 app.listen(port, () => {
     console.log(`My app is listening on port ${port}`);
 });
